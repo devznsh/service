@@ -33,7 +33,7 @@
 
 ## Installation
 
-Please refer to [INSTALLATION.md](./INSTALLATION.md) for a complete, step-by-step installation and configuration guide.
+Please refer to [INSTALLATION.md](https://github.com/devznsh/service/main/INSTALLTION.md) for a complete, step-by-step installation and configuration guide.
 
 ## Usage
 
