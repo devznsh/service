@@ -1,0 +1,9 @@
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe.config
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.pdb
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.csproj.AssemblyReference.cache
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.ProjectInstaller.resources
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.csproj.GenerateResource.cache
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.exe
+C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\obj\Release\AndroidDataProcessorService.pdb

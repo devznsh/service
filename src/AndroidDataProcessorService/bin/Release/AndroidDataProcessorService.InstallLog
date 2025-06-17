@@ -1,0 +1,46 @@
+﻿Installing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+Rolling back assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+Installing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+Rolling back assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+Installing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+Installing service AndroidDataProcessorService...
+Service AndroidDataProcessorService has been successfully installed.
+Creating EventLog source AndroidDataProcessorService in log Application...
+Committing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+Installing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
+Installing service AndroidDataProcessorService...
+Service AndroidDataProcessorService has been successfully installed.
+Creating EventLog source AndroidDataProcessorService in log Application...
+Committing assembly 'C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.exe
+   logfile = C:\Users\devan\source\repos\AndroidDataProcessorService\AndroidDataProcessorService\bin\Release\AndroidDataProcessorService.InstallLog
